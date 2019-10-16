@@ -1,3 +1,4 @@
+Generating cats using Generative Adversarial Network (GAN)
 https://en.wikipedia.org/wiki/Generative_adversarial_network
 
 Based on:
